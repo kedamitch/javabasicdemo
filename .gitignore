@@ -1,6 +1,10 @@
 .metadata/*
-.settings/*
+*/.settings/*
+.*/*
 .classpath
 *.tmp
 *.err
+.project
+*.class
+!.gitignore
 
