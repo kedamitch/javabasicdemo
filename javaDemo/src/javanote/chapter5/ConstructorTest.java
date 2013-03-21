@@ -15,7 +15,7 @@ public class ConstructorTest {
 	public ConstructorTest() {
 		this(1);
 	}
-	// wrong	d
+	// wrong
 //	public ConstructorTest(long i) {
 //		int i;
 //		this(1);
